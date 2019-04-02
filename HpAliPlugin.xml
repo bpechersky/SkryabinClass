@@ -1,10 +1,10 @@
 <application>
   <component name="AliConfiguration">
-    <location />
-    <domain />
-    <project />
-    <username />
-    <password />
+    <location>http://global-alm.pearson.com:8080/qcbin/</location>
+    <domain>PRODUCTION</domain>
+    <project>Product</project>
+    <username>vpechbo</username>
+    <password>QnVkbWFuMTk2NyMjIyMjIw==</password>
     <store-password>true</store-password>
     <stored />
     <status-transition>New:Open;Open:Fixed,Rejected;Fixed:Open,Reopen,Closed;Rejected:Open,Reopen,Closed;Reopen:Fixed,Rejected</status-transition>
