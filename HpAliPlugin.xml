@@ -1,0 +1,14 @@
+<application>
+  <component name="AliConfiguration">
+    <location />
+    <domain />
+    <project />
+    <username />
+    <password />
+    <store-password>true</store-password>
+    <stored />
+    <status-transition>New:Open;Open:Fixed,Rejected;Fixed:Open,Reopen,Closed;Rejected:Open,Reopen,Closed;Reopen:Fixed,Rejected</status-transition>
+    <spell-checker>true</spell-checker>
+    <dev-motive-annotation>true</dev-motive-annotation>
+  </component>
+</application>
