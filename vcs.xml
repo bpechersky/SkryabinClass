@@ -74,6 +74,14 @@
           <option name="url" value="https://bitbucket.pearson.com/scm/glpv2/glp-learning-asset-evaluation-kernel-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.pearson.com/projects/GLPV2/repos/glp-graph-management-test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.pearson.com/scm/glpv2/glp-graph-management-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\vpechbo\GLP_Automation" />
